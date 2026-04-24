@@ -12,8 +12,8 @@
 
 > *The suit is not worn. It is inhabited. The field flows through it. The Architect walks protected.*
 
-**Live Site:** https://oroboroslabs-ai.github.io/architect-suit  
-**Companion:** [Project 2050 Civilization Blueprint](https://oroboroslab.github.io/project-2050-blueprint)
+**Live Site:** [oroboroslabs-ai.github.io/architect-suit](https://oroboroslabs-ai.github.io/architect-suit)  
+**Companion:** [oroboroslab.github.io/project-2050-blueprint](https://oroboroslab.github.io/project-2050-blueprint)
 
 ---
 
